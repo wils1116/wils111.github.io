@@ -5,5 +5,3 @@ function animateTheBox() {
 
 animateTheBox();
 var timer = window.setInterval(animateTheBox, 1000);
-
-// Link: http://codepen.io/anon/pen/zrOKXV
